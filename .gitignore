@@ -1,0 +1,46 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+### 下载文件目录（不要上传下载的文件）###
+实验下载检测包/
+
+### 临时文件 ###
+*.tmp
+*.bak
+*.swp
+*~
